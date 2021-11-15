@@ -4,4 +4,6 @@
 
 2) No
 
-3) 
+3) No, the message feature is a pretty crucial feature for a message application and involves multiple components- writing a message and sending it to the recipient are in and of itself two seperate processes.
+   
+4) Yes, the max message length seems like a single component that isn't too related to other components.
